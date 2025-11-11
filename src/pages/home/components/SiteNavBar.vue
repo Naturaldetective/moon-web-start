@@ -89,7 +89,7 @@ function handleDragEnd(e: any) {
   -webkit-overflow-scrolling: touch;
 
   &::-webkit-scrollbar {
-    display: none;
+  
   }
 }
 .nav__item {
@@ -114,3 +114,4 @@ function handleDragEnd(e: any) {
   }
 }
 </style>
+
